@@ -1,0 +1,26 @@
+services:
+  # Serviço do React
+  frontend:
+    build: .
+    container_name: meu-react-app
+    restart: always
+    # Não expomos portas aqui para a internet, apenas internamente para o Caddy
+
+  # Serviço do Caddy (Proxy Reverso + SSL)
+  caddy:
+    image: caddy:alpine
+    container_name: caddy-server
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile # Arquivo de configuração
+      - caddy_data:/data                 # Persistência dos certificados SSL
+      - caddy_config:/config
+    depends_on:
+      - frontend
+
+volumes:
+  caddy_data:
+  caddy_config:

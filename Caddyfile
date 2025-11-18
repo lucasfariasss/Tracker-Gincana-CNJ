@@ -1,0 +1,9 @@
+potedemel.ninja {
+    # Redireciona o tráfego para o serviço 'frontend' na porta 80 interna
+    reverse_proxy frontend:80
+}
+
+# Opcional: Redirecionar www para sem-www (ou vice-versa)
+www.potedemel.ninja {
+    redir https://potedemel.ninja{uri}
+}
