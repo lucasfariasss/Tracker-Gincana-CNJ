@@ -1,9 +1,65 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { supabase } from './supabaseClient';
 import type { RequirementWithUpdate, Requirement, Update } from './types';
 import EditModal from './components/EditModal';
 
 type SetorOption = { value: string; label: string };
+
+// ===== Utilitários de CSV e formatação (sem dependências externas) =====
+
+function parseDateBR(d?: string | null) {
+  if (!d) return null;
+  const iso = new Date(d);
+  if (!Number.isNaN(iso.getTime())) return iso.toISOString().slice(0, 10);
+  const m = d.match(/^(\d{2})[\/\-](\d{2})[\/\-](\d{4})$/);
+  if (m) {
+    const [_, dd, mm, yyyy] = m;
+    return new Date(Number(yyyy), Number(mm) - 1, Number(dd)).toISOString().slice(0, 10);
+  }
+  return null;
+}
+
+function parseNumberBR(n?: string | number) {
+  if (n == null) return 0;
+  if (typeof n === 'number') return n;
+  const s = n.replace(/\./g, '').replace(',', '.').trim();
+  const f = parseFloat(s);
+  return Number.isNaN(f) ? 0 : f;
+}
+
+function csvToRows(text: string): Record<string, string>[] {
+  const sep = text.includes(';') && !text.includes(',') ? ';' : ',';
+  const lines = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n').split('\n').filter(l => l.trim().length > 0);
+
+  const parseLine = (line: string): string[] => {
+    const out: string[] = [];
+    let cur = '';
+    let inQ = false;
+
+    for (let i = 0; i < line.length; i++) {
+      const ch = line[i];
+      if (ch === '"') {
+        if (inQ && line[i + 1] === '"') { cur += '"'; i++; }
+        else { inQ = !inQ; }
+      } else if (ch === sep && !inQ) {
+        out.push(cur);
+        cur = '';
+      } else {
+        cur += ch;
+      }
+    }
+    out.push(cur);
+    return out.map(s => s.trim());
+  };
+
+  if (lines.length === 0) return [];
+  const header = parseLine(lines[0]);
+  return lines.slice(1).map(l => {
+    const cols = parseLine(l);
+    const obj: Record<string, string> = {};
+    header.forEach((h, i) => { obj[h] = cols[i] ?? ''; });
+    return obj;
+  });
+}
 
 function formatDate(d?: string | null) {
   if (!d) return '';
@@ -40,55 +96,82 @@ function eixoColor(eixo: string) {
 
 const DEADLINE_ALERT_DAYS = 15;
 
-async function fetchSetores(): Promise<string[]> {
-  const { data, error } = await supabase
-    .from('requirements')
-    .select('setor_executor', { count: 'exact', head: false });
-  if (error) throw error;
-  const uniq = Array.from<string>(
-    new Set((data ?? []).map((r: any) => (r.setor_executor as string)))
-  ).sort();
-  return uniq;
+// ===== Persistência local (localStorage) =====
+
+function makeId(r: Pick<Requirement, 'setor_executor' | 'eixo' | 'item' | 'subitem'>) {
+  const key = `${r.setor_executor}||${r.eixo}||${r.item}||${r.subitem}`;
+  let h = 5381;
+  for (let i = 0; i < key.length; i++) h = ((h << 5) + h) + key.charCodeAt(i);
+  return `req_${(h >>> 0).toString(16)}`;
 }
 
-async function fetchRequirementsForSetor(setor: string): Promise<RequirementWithUpdate[]> {
-  const { data: reqs, error } = await supabase
-    .from('requirements')
-    .select('*')
-    .eq('setor_executor', setor)
-    .order('eixo', { ascending: true })
-    .order('subitem', { ascending: true });
+const UPDATES_KEY = 'premio_cnj_updates_v1';
 
-  if (error) throw error;
-
-  const ids = (reqs ?? []).map((r: any) => r.id as string);
-  if (ids.length === 0) return [];
-
-  const { data: ups, error: uerr } = await supabase
-    .from('updates')
-    .select('*')
-    .in('requirement_id', ids);
-
-  if (uerr) throw uerr;
-
-  const upByReq = new Map<string, any>((ups ?? []).map((u: any) => [u.requirement_id as string, u]));
-  return (reqs ?? []).map((r: any) => ({ ...(r as Requirement), update: upByReq.get(r.id as string) || null }));
+function loadUpdates(): Record<string, Update> {
+  try {
+    const raw = localStorage.getItem(UPDATES_KEY);
+    if (!raw) return {};
+    const obj = JSON.parse(raw) as Record<string, Update>;
+    return obj ?? {};
+  } catch {
+    return {};
+  }
 }
 
-async function saveUpdate(payload: { requirement_id: string; status: Update['status']; evidencia_url?: string; observacoes?: string }) {
-  const { data, error } = await supabase
-    .from('updates')
-    .upsert({ ...payload }, { onConflict: 'requirement_id' })
-    .select()
-    .single();
-  if (error) throw error;
-  return data as Update;
+function saveUpdateLocal(update: Update) {
+  const all = loadUpdates();
+  all[update.requirement_id] = update;
+  localStorage.setItem(UPDATES_KEY, JSON.stringify(all));
+}
+
+async function fetchCSVRequirements(): Promise<Requirement[]> {
+  try {
+    const res = await fetch('/data/BD.csv', { cache: 'no-cache' });
+    if (!res.ok) throw new Error('CSV não encontrado');
+    const text = await res.text();
+    const rows = csvToRows(text);
+    const list: Requirement[] = rows.map((r: Record<string, string>) => {
+      const setor = (r['Setor Executor'] ?? '').trim();
+      const eixo = (r['EIXO'] ?? '').trim();
+      const item = (r['ITEM'] ?? '').trim();
+      const subitem = (r['SUBITEM'] ?? '').trim();
+      const deadline = parseDateBR(r['DEADLINE']);
+      const pontos = parseNumberBR(r['Pontos Aplicáveis 2025']);
+      const id = makeId({ setor_executor: setor, eixo, item, subitem });
+      return { id, setor_executor: setor, eixo, item, subitem, deadline, pontos: Number(pontos) || 0 };
+    }).filter(r => r.setor_executor && r.eixo && r.item && r.subitem);
+    if (list.length > 0) return list;
+    throw new Error('CSV vazio');
+  } catch {
+    const sample: Requirement[] = [
+      {
+        id: makeId({ setor_executor: 'Setor Exemplo', eixo: 'Governança', item: 'Exemplo de Meta', subitem: 'Subitem 1' }),
+        setor_executor: 'Setor Exemplo',
+        eixo: 'Governança',
+        item: 'Exemplo de Meta',
+        subitem: 'Subitem 1',
+        deadline: parseDateBR('31/12/2026'),
+        pontos: 10
+      },
+      {
+        id: makeId({ setor_executor: 'Setor Exemplo', eixo: 'Produtividade', item: 'Outra Meta', subitem: 'Subitem 2' }),
+        setor_executor: 'Setor Exemplo',
+        eixo: 'Produtividade',
+        item: 'Outra Meta',
+        subitem: 'Subitem 2',
+        deadline: parseDateBR('30/11/2026'),
+        pontos: 5
+      }
+    ];
+    return sample;
+  }
 }
 
 export default function App() {
   const [loading, setLoading] = useState(true);
   const [setores, setSetores] = useState<SetorOption[]>([]);
   const [setor, setSetor] = useState<string>(() => localStorage.getItem('setor') || '');
+  const [allItems, setAllItems] = useState<Requirement[]>([]);
   const [items, setItems] = useState<RequirementWithUpdate[]>([]);
   const [editing, setEditing] = useState<RequirementWithUpdate | null>(null);
   const [saving, setSaving] = useState(false);
@@ -97,11 +180,15 @@ export default function App() {
     (async () => {
       setLoading(true);
       try {
-        const s = await fetchSetores();
-        setSetores(s.map(v => ({ value: v, label: v })));
+        const reqs = await fetchCSVRequirements();
+        setAllItems(reqs);
+        const uniqSetores = Array.from(new Set(reqs.map(r => r.setor_executor))).sort();
+        setSetores(uniqSetores.map(v => ({ value: v, label: v })));
         if (setor) {
-          const data = await fetchRequirementsForSetor(setor);
-          setItems(data);
+          const ups = loadUpdates();
+          const filtered = reqs.filter(r => r.setor_executor === setor)
+            .map(r => ({ ...r, update: ups[r.id] ?? null }));
+          setItems(filtered);
         }
       } finally {
         setLoading(false);
@@ -114,8 +201,10 @@ export default function App() {
     localStorage.setItem('setor', setor);
     setLoading(true);
     try {
-      const data = await fetchRequirementsForSetor(setor);
-      setItems(data);
+      const ups = loadUpdates();
+      const filtered = allItems.filter(r => r.setor_executor === setor)
+        .map(r => ({ ...r, update: ups[r.id] ?? null }));
+      setItems(filtered);
     } finally {
       setLoading(false);
     }
@@ -143,7 +232,15 @@ export default function App() {
   async function handleSave(update: { requirement_id: string; status: Update['status']; evidencia_url?: string; observacoes?: string }) {
     setSaving(true);
     try {
-      const up = await saveUpdate(update);
+      const up: Update = {
+        id: update.requirement_id,
+        requirement_id: update.requirement_id,
+        status: update.status,
+        evidencia_url: update.evidencia_url ?? null,
+        observacoes: update.observacoes ?? null,
+        updated_at: new Date().toISOString()
+      };
+      saveUpdateLocal(up);
       setItems((prev: RequirementWithUpdate[]) => prev.map((r: RequirementWithUpdate) => r.id === up.requirement_id ? { ...r, update: up } : r));
       setEditing(null);
     } finally {

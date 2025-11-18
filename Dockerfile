@@ -4,7 +4,7 @@ FROM node:18-alpine AS build
 WORKDIR /app
 
 # Copia apenas os arquivos de dependência primeiro (cache eficiente)
-COPY package.json package-lock.json ./
+COPY package.json package-lock.json* ./
 RUN npm install
 
 # Copia o restante do código e faz o build
@@ -18,6 +18,10 @@ FROM nginx:alpine
 # Nota: Se seu projeto usa Vite, a pasta geralmente é /dist. Se for CRA, é /build.
 # Verifique qual pasta seu comando 'npm run build' gera.
 COPY --from=build /app/dist /usr/share/nginx/html
+
+# Certifique-se de servir a pasta /data para o CSV
+RUN mkdir -p /usr/share/nginx/html/data
+COPY data/ /usr/share/nginx/html/data/
 
 # Copia configuração customizada do Nginx (necessário para React Router)
 COPY nginx.conf /etc/nginx/conf.d/default.conf

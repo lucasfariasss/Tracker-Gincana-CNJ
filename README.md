@@ -1,44 +1,29 @@
-# Prêmio CNJ de Qualidade - TJPB 2026
+# Prêmio CNJ de Qualidade - TJPB 2026 (zero-config)
 
-Aplicação web para acompanhamento de metas por Setor (mock login), com Dashboard por EIXO, edição via modal e persistência no Supabase.
+Aplicação web estática (Docker + Nginx), sem dependência de banco. Os dados são lidos de `data/BD.csv` (servido como arquivo estático) e as edições são salvas em `localStorage` do navegador.
 
-## Requisitos
-- Node.js 18+
-- Conta no Supabase
+## Como rodar com Docker (sem nenhuma configuração extra)
+1. (Opcional) Coloque seu `BD.csv` em `./data/BD.csv`.
+	- Cabeçalhos esperados: "Setor Executor","EIXO","ITEM","SUBITEM","DEADLINE","Pontos Aplicáveis 2025".
+	- Se o arquivo não existir, o app sobe com dados de exemplo.
+2. Construa e suba com Docker Compose:
+	```powershell
+	docker compose up --build
+	```
+3. Acesse: http://localhost:8080
 
-## Configuração
-1. Crie um projeto no Supabase e copie `VITE_SUPABASE_URL` e `VITE_SUPABASE_ANON_KEY`.
-2. Crie um arquivo `.env.local` na raiz com base no `.env.example`.
-3. No Supabase (SQL Editor), execute o conteúdo de `schema.sql` para criar as tabelas.
-
-## Seed do CSV
-1. Copie seu `BD.csv` para `data/BD.csv` (com cabeçalhos: "Setor Executor","EIXO","ITEM","SUBITEM","DEADLINE","Pontos Aplicáveis 2025").
-2. Exporte `SUPABASE_URL` e `SUPABASE_SERVICE_ROLE_KEY` (iguais aos do projeto):
-
-```powershell
-$env:SUPABASE_URL="https://YOUR-PROJECT.supabase.co"
-$env:SUPABASE_SERVICE_ROLE_KEY="YOUR-SERVICE-ROLE-KEY"
-```
-
-3. Rode o seed:
-
-```powershell
-npm run seed
-```
-
-## Rodar o app
+## Desenvolvimento local (opcional)
 ```powershell
 npm install
 npm run dev
 ```
-Abra o endereço exibido (por padrão: http://localhost:5173).
 
 ## Funcionalidades
-- Mock Login: escolha de Setor (valores únicos de `Setor Executor`).
-- Dashboard: cards agrupados por `EIXO` exibindo `SUBITEM`, `ITEM`, `DEADLINE` (alerta em vermelho quando próximo), `Pontos` e Status (badge).
-- Edição (Modal): Status, Link de Evidência e Observações (salva/upsert em `updates`).
+- Mock Login: dropdown com valores únicos de `Setor Executor`.
+- Dashboard: agrupamento por `EIXO`, cards com `SUBITEM`, `ITEM`, `DEADLINE` (alerta quando próximo), `Pontos` e Status (badge).
+- Edição (Modal): Status, Link de Evidência e Observações. Persistência em `localStorage` no navegador.
 - Barra de Progresso do Setor: pontos concluídos / pontos totais.
 
 ## Observações
 - Cores por EIXO: Governança (azul), Produtividade (verde), Dados (roxo), Transparência (laranja).
-- Ajuste o prazo crítico em `DEADLINE_ALERT_DAYS` no `App.tsx` (padrão 15 dias).
+- Ajuste o prazo crítico em `DEADLINE_ALERT_DAYS` no `src/App.tsx` (padrão 15 dias).
