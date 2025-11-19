@@ -1,0 +1,2232 @@
+[
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Resolução CNJ nº 219/2016 (priorização do 1º Grau)",
+    "requisito": "Funções Comissionadas entre 1º e 2º graus",
+    "descricao": "Distribuição dos(as) servidores(as) entre os graus de jurisdição",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Resolução CNJ nº 219/2016 (priorização do 1º Grau)",
+    "requisito": "Cargos em Comissão entre 1º e 2º graus",
+    "descricao": "Distribuição dos valores integrais das funções comissionadas entre os graus de jurisdição",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Resolução CNJ nº 219/2016 (priorização do 1º Grau)",
+    "requisito": "Quantidade de servidores entre 1º e 2º graus",
+    "descricao": "Distribuição dos valores integrais dos cargos em comissão entre os graus de jurisdição",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Resolução CNJ nº 219/2016 (priorização do 1º Grau)",
+    "requisito": "Cargos em comissão da área administrativa",
+    "descricao": "Limite de 30,00% na área de apoio indireto – servidores(as)",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Resolução CNJ nº 219/2016 (priorização do 1º Grau)",
+    "requisito": "Funções comissionadas da área administrativa",
+    "descricao": "Limite de 30,00% na área de apoio indireto – funções comissionadas",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Resolução CNJ nº 219/2016 (priorização do 1º Grau)",
+    "requisito": "Quantidade de servidores da área administrativa",
+    "descricao": "Limite de 30,00% na área de apoio indireto – cargos em comissão",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Resolução CNJ nº 219/2016 (priorização do 1º Grau)",
+    "requisito": "Orçamento entre 1º e 2º graus",
+    "descricao": "Distribuição do orçamento de natureza não vinculada entre os graus de jurisdição, proporcional à média de casos novos do triênio",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Gestão participativa na elaboração das Metas Nacionais",
+    "requisito": "Realizar audiência pública",
+    "descricao": "Realizar consulta pública",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 15
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Gestão participativa na elaboração das Metas Nacionais",
+    "requisito": "Realizar consulta pública",
+    "descricao": "Realizar audiência pública",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 15
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Gestão participativa na elaboração das Metas Nacionais",
+    "requisito": "Realizar uma ou mais reuniões com Magistrados e servidores",
+    "descricao": "Realizar uma ou mais reuniões com Magistrados e servidores",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 30
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Gestão Socioambiental e IDS",
+    "requisito": "Resultado do IDS",
+    "descricao": "Resultado do IDS",
+    "setorExecutor": "NGSA",
+    "coordenadorExecutivo": "Lua Yamaoka Mariz Maia Pitanga",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 50
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Judicialização da Saúde",
+    "requisito": "Possuir NatJus",
+    "descricao": "Possuir NatJus que realize apoio técnico nas ações de saúde suplementar",
+    "setorExecutor": "COMITÊ ESTADUAL DE SAÚDE",
+    "coordenadorExecutivo": "Silmary Alves de Queiroga Vita",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Judicialização da Saúde",
+    "requisito": "Executar Plano de Estadual",
+    "descricao": "Executar duas ações do Plano Estadual ou Distrital elaborado",
+    "setorExecutor": "COMITÊ ESTADUAL DE SAÚDE",
+    "coordenadorExecutivo": "Silmary Alves de Queiroga Vita",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Judicialização da Saúde",
+    "requisito": "Acordo de Cooperação Técnica",
+    "descricao": "Possuir acordo de cooperação técnica, ou instrumento similar, com entes do SUS ou com operadoras de planos de saúde",
+    "setorExecutor": "COMITÊ ESTADUAL DE SAÚDE",
+    "coordenadorExecutivo": "Silmary Alves de Queiroga Vita",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Judicialização da Saúde",
+    "requisito": "Capacitação",
+    "descricao": "Realizar cursos capacitação com os(as) magistrados(as), voltados ao Direito da Saúde e/ou Judicialização da Saúde",
+    "setorExecutor": "ESMA",
+    "coordenadorExecutivo": "Silmary Alves de Queiroga Vita",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Judicialização da Saúde",
+    "requisito": "Possuir unidade judiciária especializada na temática da saúde",
+    "descricao": "Possuir unidade judiciária especializada na temática da saúde",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Silmary Alves de Queiroga Vita",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Centro de Inteligência do Poder Judiciário",
+    "requisito": "Emitir 3 Notas técnicas",
+    "descricao": "Emitir 3 Notas técnicas",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Jeremias de Cassio Carneiro de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 15
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Assédio Moral, Sexual e Discriminação",
+    "requisito": "Capacitação de servidores chefes",
+    "descricao": "Realizar campanha de orientação e esclarecimento sobre assédio moral, assédio sexual e discriminação",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Tulia Gomes de Souza Neves",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Assédio Moral, Sexual e Discriminação",
+    "requisito": "Semana de Combate ao Assédio",
+    "descricao": "Possuir o mínimo de 20,00% dos(as) servidores(as) ocupantes de cargo de chefia do órgão capacitados na temática",
+    "setorExecutor": "ESMA",
+    "coordenadorExecutivo": "Tulia Gomes de Souza Neves",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Assédio Moral, Sexual e Discriminação",
+    "requisito": "Campanha de orientação",
+    "descricao": "Realizar a semana de combate ao assédio no mês de maio(magistrados(as), servidores(as) e quadro auxiliar) (10 pontos);",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Tulia Gomes de Souza Neves",
+    "deadline": "2026-05-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Assédio Moral, Sexual e Discriminação",
+    "requisito": "Penquisa que avalie assédio no tribunal",
+    "descricao": "Ter realizado pelo menos uma pesquisa interna que avalie o assédio no tribunal",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Tulia Gomes de Souza Neves",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Gestão de Memória e Documental",
+    "requisito": "Ambientes físicos e virtuais de preservação da memória",
+    "descricao": "Publicação de pelo menos dois editais de eliminação",
+    "setorExecutor": "CPAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Gestão de Memória e Documental",
+    "requisito": "Editais de eliminação",
+    "descricao": "Possuir ambientes físicos e virtuais de preservação da memória",
+    "setorExecutor": "CPAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Política Nacional de Justiça Restaurativa",
+    "requisito": "Possuir CEJURE",
+    "descricao": "Possuir pelo menos um Núcleo de Justiça Restaurativa estruturado que contenha, no mínimo, dois servidores(as) com dedicação exclusiva e capacitados(as) como facilitadores(as) em práticas restaurativas",
+    "setorExecutor": "NEJURE",
+    "coordenadorExecutivo": "Ivna Mozart Bezerra Soares",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Política Nacional de Justiça Restaurativa",
+    "requisito": "Capacitação",
+    "descricao": "Realizar capacitação, na teoria e prática da Justiça Restaurativa, nos termos do Plano Pedagógico Mínimo Orientador para Formações em Justiça Restaurativa",
+    "setorExecutor": "NEJURE",
+    "coordenadorExecutivo": "Ivna Mozart Bezerra Soares",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Política Nacional de Justiça Restaurativa",
+    "requisito": "Relatório de Atividades",
+    "descricao": "Relatório de atividades do Núcleo de Justiça Restaurativa",
+    "setorExecutor": "NEJURE",
+    "coordenadorExecutivo": "Ivna Mozart Bezerra Soares",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Instalar GMF",
+    "requisito": "Estrutura de apoio administrativo / Equipe multiprofissional",
+    "descricao": "Estrutura de apoio administrativo / Equipe multiprofissional",
+    "setorExecutor": "GMF",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Inspeções nos estabelecimentos penais",
+    "requisito": "Inspeções nos estabelecimentos penais",
+    "descricao": "Inspeções nos estabelecimentos penais",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-08-31 00:00:00",
+    "pontosAplicaveis2026": 30
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Inspeções nos estabelecimentos de medidas socioeducativas",
+    "requisito": "Meio Fechado",
+    "descricao": "Meio Fechado",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Inspeções nos estabelecimentos de medidas socioeducativas",
+    "requisito": "Meio aberto",
+    "descricao": "Meio aberto",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Participação Institucional Feminina",
+    "requisito": "Paridade na promoção por merecimento",
+    "descricao": "Paridade de gênero nas promoções por merecimento do primeiro para o segundo grau; ou paridade no total de desembargadoras ativas e que tenham ingressado pelo critério de merecimento",
+    "setorExecutor": "TRIBUNAL PLENO",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Participação Institucional Feminina",
+    "requisito": "Paridade magistradas auxiliares",
+    "descricao": "Percentual paritário de magistradas designadas como auxiliares para cargos na alta administração do Poder Judiciário (juíza auxiliar da presidência, vice-presidência e corregedoria; diretora de escolas judiciais; diretora de foro de seção judiciária; e ouvidora, inclusive ouvidora da mulher)",
+    "setorExecutor": "PRESIDÊNCIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Participação Institucional Feminina",
+    "requisito": "Paridade cortes eleitorais",
+    "descricao": "Percentual paritário de magistradas designadas para compor as cortes eleitorais",
+    "setorExecutor": "TRIBUNAL PLENO",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Participação Institucional Feminina",
+    "requisito": "Paridade servidoras ocupantes de cargos de chefia",
+    "descricao": "Percentual paritário de servidoras ocupantes de cargo de chefia",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Apoio às Vítimas de Crimes e Atos Infracionais",
+    "requisito": "Centros Especializados de Atenção às Vítimas",
+    "descricao": "Existência de Centros Especializados de Atenção às Vítimas em funcionamento e estruturado com equipe multiprofissional.",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Acessibilidade e inclusão de pessoas com deficiência",
+    "requisito": "Eventos realizados",
+    "descricao": "Acessibilidade comunicacional: possuir 70,00% ou mais de eventos realizados com acessibilidade comunicacional, calculado pela relação (QEAc / QEt), conforme indicador 3.4 do anexo da referida resolução",
+    "setorExecutor": "CERIMONIAL/NGSA",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Acessibilidade e inclusão de pessoas com deficiência",
+    "requisito": "Recursos de tecnologia assistida para srvidores com deficiência visual",
+    "descricao": "Acessibilidade tecnológica: 5 pontos para cada recurso de tecnologia assistida que permita o uso de computadores por pessoas com deficiência visual - resolução",
+    "setorExecutor": "DITEC",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Acessibilidade e inclusão de pessoas com deficiência",
+    "requisito": "Servidores capacitados(as)",
+    "descricao": "Percentual de servidores(as) capacitados(as) nas temáticas de acessibilidade e inclusão das pessoas com deficiência igual ou maior que 10,00%, calculado pela relação: ((QS1 + QS2) / Serv)",
+    "setorExecutor": "ESMA/NGSA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Acessibilidade e inclusão de pessoas com deficiência",
+    "requisito": "Relatório de Ações da COMPACI",
+    "descricao": "Relatório de Ações da COMPACI que evidencie os seguintes temas: Acessibilidade Comunicacional, Acessibilidade tecnológica e Capacitação dos Servidores",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Anna Carla Lopes Correia Lima de Freitas",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 0
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Acessibilidade e inclusão de pessoas com deficiência",
+    "requisito": "Magistrados(as) capacitados(as)",
+    "descricao": "Percentual de magistrados(as) capacitados(as) nas temáticas de acessibilidade e inclusão das pessoas com deficiência igual ou maior que 10,00%",
+    "setorExecutor": "ESMA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Acessibilidade e inclusão de pessoas com deficiência",
+    "requisito": "Projeto de uso de linguagem simples",
+    "descricao": "Ter pelo menos um projeto de uso de linguagem simples com foco na prestação jurisdicional e/ou nos atos administrativos",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Natan Figueredo Oliveira",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Política de Gestão da Inovação",
+    "requisito": "Laboratório de Inovação",
+    "descricao": "Ter implantado o Laboratório de Inovação, nos termos do art. 4º da Resolução CNJ nº 395/2021, e designado laboratoristas, dos quais ao menos um(a) magistrado(a) e um(a) servidor(a), este com dedicação exclusiva, e ambos com capacitação em gestão e operação de laboratórios de inovação de, no mínimo, 20h/aula",
+    "setorExecutor": "COINO",
+    "coordenadorExecutivo": "Jeremias de Cassio Carneiro de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Política de Gestão da Inovação",
+    "requisito": "Projeto design thinking",
+    "descricao": "Encaminhar relatório de iniciativa na qual tenha sido utilizada a abordagem do design thinking na fase de identificação/análise do problema e geração/seleção de alternativas de solução para prototipagem e teste, independentemente da metodologia utilizada na fase de gerenciamento do projeto decorrente",
+    "setorExecutor": "COINO",
+    "coordenadorExecutivo": "Jeremias de Cassio Carneiro de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Núcleo de cooperação judiciária",
+    "requisito": "Iniciativa promovida pelo núcleo",
+    "descricao": "Realizar pelo menos uma iniciativa promovida pelo núcleo de cooperação judiciária, formalmente constituído",
+    "setorExecutor": "VICE",
+    "coordenadorExecutivo": "Lua Yamaoka Mariz Maia Pitanga",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Núcleo de cooperação judiciária",
+    "requisito": "Iniciativa promovida pelo magistrado de cooperação",
+    "descricao": "Realizar pelo menos uma iniciativa promovida por magistrados(as) de cooperação judiciária",
+    "setorExecutor": "VICE",
+    "coordenadorExecutivo": "Lua Yamaoka Mariz Maia Pitanga",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Capacitação de Magistrados e servidores",
+    "requisito": "Capacitação - Direitos Humanos",
+    "descricao": "Promoverem cursos de formação inicial e de formação continuada para capacitação magistrados(as) ativos(as), de primeiro e segundo graus de jurisdição, que incluam, obrigatoriamente, os conteúdos relativos aos direitos humanos, gênero, raça e etnia, bem como de servidores (as), os quais deverão ser disponibilizados com periodicidade mínima anual, preferencialmente na modalidade presencial ou híbrida",
+    "setorExecutor": "ESMA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Capacitação de Magistrados e servidores",
+    "requisito": "Capacitação - Depoimento Especial",
+    "descricao": "Promoverem capacitação de magistrados(as) e profissionais que atuem na realização do depoimento especial, inclusive para crianças e adolescentes de povos e comunidades tradicionais, de forma interdisciplinar e continuada, observando os marcos do Protocolo Brasileiro de Entrevista Forense",
+    "setorExecutor": "ESMA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Capacitação de Magistrados e servidores",
+    "requisito": "Capacitação - reflexão e sensibilização de autores de violência doméstica",
+    "descricao": "Capacitação de facilitadores(as) para programas voltados à reflexão e sensibilização de autores de violência doméstica e familiar contra a mulher.",
+    "setorExecutor": "ESMA",
+    "coordenadorExecutivo": "Antonieta Lucia Maroja Arcoverde Nobrega",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Estruturação de juizados de violência doméstica e familiar",
+    "requisito": "Estruturação de juizados de violência doméstica e familiar",
+    "descricao": "Criação e instalação ou transformação de unidade judiciária ou nova disponibilização de equipe multidisciplinar ou ampliação do quadro de profissionais especializados de equipe multidisciplinar existente",
+    "setorExecutor": "PRESIDÊNCIA",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Grupos vulnerabilizados - Resolução 497/2023",
+    "requisito": "Contratação de grupos vulneráveis",
+    "descricao": "100,00% dos editais de contratação publicados no período de referência com previsão de, no mínimo, 5% de reserva das vagas nos contratos que envolvam prestação de serviços contínuos com regime de dedicação exclusiva de mão de obra",
+    "setorExecutor": "DIADM",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Aposentadoria",
+    "requisito": "Programa de Preparação à Aposentadoria (PPA)",
+    "descricao": "Para os tribunais que tiverem instituído o Programa de Preparação à Aposentadoria (PPA)",
+    "setorExecutor": "VICE",
+    "coordenadorExecutivo": "Silmary Alves de Queiroga Vita",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Protocolo Enfrentamento à Violência Doméstica Praticada em Face de Magistradas e Servidoras",
+    "requisito": "Programa de prevenção",
+    "descricao": "Criar ou implementar programa voltado à prevenção, à orientação e ao apoio de magistradas e servidoras",
+    "setorExecutor": "COORDENADORIA VD",
+    "coordenadorExecutivo": "Graziela Queiroga Gadelha de Sousa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Protocolo Enfrentamento à Violência Doméstica Praticada em Face de Magistradas e Servidoras",
+    "requisito": "Campanha de orientação",
+    "descricao": "Realização de campanha de orientação e esclarecimento sobre violência doméstica e familiar contra a mulher, com divulgação dos canais de denúncia",
+    "setorExecutor": "COORDENADORIA VD",
+    "coordenadorExecutivo": "Graziela Queiroga Gadelha de Sousa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Protocolo Enfrentamento à Violência Doméstica Praticada em Face de Magistradas e Servidoras",
+    "requisito": "Evento Anual",
+    "descricao": "Realização de um evento anual sobre a temática",
+    "setorExecutor": "COORDENADORIA VD",
+    "coordenadorExecutivo": "Graziela Queiroga Gadelha de Sousa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Política Judiciária Nacional para a Primeira Infância",
+    "requisito": "Plano de Ação - Comitê de Primeira Infância",
+    "descricao": "Possuir comitê gestor e plano de ação",
+    "setorExecutor": "COINJU",
+    "coordenadorExecutivo": "Maria dos Remedios Pordeus Pedrosa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "Política Judiciária Nacional para a Primeira Infância",
+    "requisito": "Estruturação das Unidades Judiciárias de Primeira Infância",
+    "descricao": "Criação e instalação ou transformação de unidade judiciária ou nova disponibilização de equipe multidisciplinar ou ampliação do quadro de profissionais especializados de equipe multidisciplinar existente",
+    "setorExecutor": "PRESIDÊNCIA",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "1. GOVERNANÇA",
+    "item": "IPER",
+    "requisito": "Índice de Promoção de Equidade Racial",
+    "descricao": "De acordo a pontuação relativa alcançada no Iper × 20",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Jailson Shizue Suassuna",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Melhores índices no IPC-Jus",
+    "requisito": "Melhores índices no IPC-Jus",
+    "descricao": "Resultado do IPC-JUS",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Meales Medeiros de Melo",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 90
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Redução da Taxa de Congestionamento Líquida",
+    "requisito": "Taxa de Congestionamento Líquida",
+    "descricao": "Resultado da TCL líquida",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Meales Medeiros de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 50
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Tempo Médio",
+    "requisito": "Tempo Médio",
+    "descricao": "A) até 500 dias (50 pontos);\nB) de 501 a 700 dias (35 pontos);\nC) de 701 a 900 dias (20 pontos)",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Meales Medeiros de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 50
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Índices de Conciliação",
+    "requisito": "1º grau",
+    "descricao": "Indicador I - total de processos com sentenças e decisões terminativas homologatórias de acordo, em relação ao total de processos com sentenças e decisões terminativas, considerando os processos de conhecimento não criminais de primeiro grau",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Kleyber Thiago Trovao Eulalio",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Índices de Conciliação",
+    "requisito": "juizados especiais",
+    "descricao": "Indicador II - total de processos com sentenças e decisões terminativas homologatórias de acordo, em relação ao total de processos com sentenças e decisões terminativas, considerando os processos de conhecimento não criminais de juizados especiais",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Kleyber Thiago Trovao Eulalio",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Índices de Conciliação",
+    "requisito": "2º grau",
+    "descricao": "Indicador III - total de processos com sentenças e decisões terminativas homologatórias de acordo, em relação ao total de processos com sentenças e decisões terminativas, considerando os processos de conhecimento não criminais de segundo grau",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Kleyber Thiago Trovao Eulalio",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Índices de Conciliação",
+    "requisito": "execução extrajudicial não fiscais",
+    "descricao": "Indicador IV - total de processos com sentenças de execução de títulos executivos extrajudiciais não fiscais homologatórias de acordo, em relação ao total de processos com sentenças de execução de títulos executivos extrajudiciais não fiscais",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Kleyber Thiago Trovao Eulalio",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Índices de Conciliação",
+    "requisito": "execução não criminal",
+    "descricao": "Indicador V - total de processos não criminais com sentenças em execução judicial ou em cumprimento de sentença homologatórias de acordo, em relação ao total de processos não criminais com sentenças em execução judicial ou em cumprimento de sentença",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Kleyber Thiago Trovao Eulalio",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 1",
+    "descricao": "Meta 1",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Alirio Maciel Lima de Brito",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 2",
+    "descricao": "Meta 2",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Alirio Maciel Lima de Brito",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 3",
+    "descricao": "Meta 3",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Kleyber Thiago Trovao Eulalio",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 4",
+    "descricao": "Meta 4",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Jailson Shizue Suassuna",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 5",
+    "descricao": "Meta 5",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Meales Medeiros de Melo",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 6",
+    "descricao": "Meta 6",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Deborah Cavalcanti Figueiredo",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 0
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 8",
+    "descricao": "Meta 8",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Graziela Queiroga Gadelha de Sousa",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 10",
+    "descricao": "Meta 10",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Maria dos Remedios Pordeus Pedrosa",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Cumprimento das Metas Nacionais",
+    "requisito": "Meta 9",
+    "descricao": "Meta 9",
+    "setorExecutor": "COINO",
+    "coordenadorExecutivo": "Natan Figueredo Oliveira",
+    "deadline": "2025-12-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Julgar processos antigos",
+    "requisito": "Julgar processos antigos",
+    "descricao": "Ajuizados até o ano de 2022 dos casos pendentes líquidos e não julgados até 31/7/2025\nA) até 20,00%  (50 pontos);\nB) de 20,01% a 25,00% (25 pontos).",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Meales Medeiros de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 50
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Julgar Violência contra a Mulher",
+    "requisito": "Tempo Médio - Feminicídio",
+    "descricao": "Tempo médio decorrido entre a data do início da ação penal e a data-base de cálculo nos processos de violência doméstica e familiar contra a mulher pendentes líquidos",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Graziela Queiroga Gadelha de Sousa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Julgar Violência contra a Mulher",
+    "requisito": "Tempo médio - VD",
+    "descricao": "Tempo médio decorrido entre a data do início da ação penal e a data-base de cálculo nos processos de feminicídio pendentes líquidos",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Graziela Queiroga Gadelha de Sousa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Julgar Violência contra a Mulher",
+    "requisito": "Tempo Médio - Medida Protetiva",
+    "descricao": "Tempo médio decorrido entre a data do recebimento/ajuizamento e a data da primeira concessão ou denegação da medida protetiva, nos processos de violência doméstica e familiar contra a mulher, das classes de medidas protetivas de urgência, de até 2 dias",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Graziela Queiroga Gadelha de Sousa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Judicialização da Saúde",
+    "requisito": "Tempo Médio",
+    "descricao": "Tempo médio decorrido entre a data do início da ação e a data-base de cálculo nos processos de judicialização da saúde pendentes líquidos",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Silmary Alves de Queiroga Vita",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Adoção e acolhimento",
+    "requisito": "Reavaliação de acolhimento",
+    "descricao": "Reavaliação de acolhimento",
+    "setorExecutor": "CEJA/UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Fabio Leandro de Alencar Cunha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Adoção e acolhimento",
+    "requisito": "Tempo Médio - Adoção",
+    "descricao": "Acima de 80,00% dos processos de adoção pelo cadastro do SNA que tramitam há 240 dias ou menos",
+    "setorExecutor": "CEJA/UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Fabio Leandro de Alencar Cunha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Adoção e acolhimento",
+    "requisito": "Tempo Médio - Destituição do poder familiar",
+    "descricao": "Acima de 80,00% dos processos de destituição do poder familiar no SNA que tramitam há 120 dias ou menos",
+    "setorExecutor": "CEJA/UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Fabio Leandro de Alencar Cunha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Adoção e acolhimento",
+    "requisito": "CPF cadastrado das crianças acolhidas",
+    "descricao": "Acima de 90,00% das crianças e dos(as) adolescentes acolhidos(as) há mais de 30 dias que tenham o CPF cadastrado",
+    "setorExecutor": "CEJA/UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Fabio Leandro de Alencar Cunha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Ações Penais (geral e júri)",
+    "requisito": "Tempo Médio Ação Penal",
+    "descricao": "Tempo médio dos processos pendentes líquidos, considerando o número de dias decorridos entre o início da ação penal e a data-base de cálculo",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Marcial Henrique Ferraz da Cruz",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Ações Penais (geral e júri)",
+    "requisito": "Tempo Médio Ação do Júri",
+    "descricao": "Tempo médio dos processos pendentes líquidos, decorrido entre a data do início da ação penal de competência do júri e data-base de cálculo",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Marcial Henrique Ferraz da Cruz",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Julgar IRDR ou IAC",
+    "requisito": "Julgar IRDR ou IAC",
+    "descricao": "para cada IRDR ou para cada IAC julgado no período de referência",
+    "setorExecutor": "GABINETES",
+    "coordenadorExecutivo": "Frederico Martinho da Nobrega Coutinho",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 15
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Unidades judiciárias com IAD acima de 100%",
+    "requisito": "1º Grau",
+    "descricao": "Percentual de unidades judiciárias de primeiro grau com IAD igual ou maior que 100,00%",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Meales Medeiros de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 30
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Unidades judiciárias com IAD acima de 100%",
+    "requisito": "2º Grau",
+    "descricao": "Percentual de unidades judiciárias de segundo grau ou em unidades de tribunais Superiores, com IAD igual ou maior que 100,00%",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Meales Medeiros de Melo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Juízo Verde",
+    "requisito": "IAD",
+    "descricao": "IAD nas ações ambientais igual ou maior que 100,00%",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Deborah Cavalcanti Figueiredo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Juízo Verde",
+    "requisito": "Julgamento dos processos antigos",
+    "descricao": "Julgar, entre 1º/8/2024 e 31/7/2025, pelo menos 35,00% dos processos ambientais ingressados até 31/12/2021 e que não tinham sido julgados ou baixados até 31/7/2024. Excluem-se os processos pendentes que estavam suspensos, sobrestados ou em arquivo provisório em 31/7/2024",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Deborah Cavalcanti Figueiredo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Incidentes de progressão de regime",
+    "requisito": "Incidentes de progressão de regime",
+    "descricao": "Média do resultado alcançado por cada unidade judiciária em cada mês-base, no que diz respeito à proporção entre a soma de incidentes de progressão de regime vencidos no SEEU e a soma do número de processos ativos na respectiva unidade judiciária e mês-base de medição.Os cálculos serão efetuados no 15° dia útil subsequente ao mês-base.",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Andrea Arcoverde Cavalcanti Vaz",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 60
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Audiências concentradas socioeducativo",
+    "requisito": "Regulamentação",
+    "descricao": "Regulamentação das audiências concentradas para reavaliação de medidas socioeducativas de internação e semiliberdade",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Maria dos Remedios Pordeus Pedrosa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Audiências concentradas socioeducativo",
+    "requisito": "Audiências concentradas socioeducativo",
+    "descricao": "Realização de audiências concentradas de reavaliação de medidas socioeducativas de internação e semiliberdade",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Maria dos Remedios Pordeus Pedrosa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 15
+  },
+  {
+    "eixo": "2. PRODUTIVIDADE",
+    "item": "Julgamento apurações infracionais",
+    "requisito": "Tempo médio",
+    "descricao": "Tempo médio dos processos pendentes líquidos, considerando o número de dias decorridos entre o início da representação do ato infracional e a data-base de cálculo",
+    "setorExecutor": "UNIDADES JUDICIÁRIAS",
+    "coordenadorExecutivo": "Maria dos Remedios Pordeus Pedrosa",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Assunto válido",
+    "descricao": "Mais de 98,00% dos processos com tipoAssuntoProcessual.codigoNacional e/ou tipoAssuntoLocal.codigoPaiNacional válidos que sejam folha (último nível) ou de nível 3 ou mais",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento válido",
+    "descricao": "Mais de 95,00% dos processos com tipoMovimentoNacional.codigoNacional e/ou tipoMovimentoLocal.codigoPaiNacional preenchidos, válidos e em último nível",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento com complemento",
+    "descricao": "Mais de 90,00% dos movimentos que possuam complementos tabelados com os campos movimentoNacional.complemento e/ou movimentoLocal.complemento preenchidos e em formato válido, no padrão do modelo XSD",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Documento do Polo ativo",
+    "descricao": "Mais de 95,00% dos processos Pessoa.numeroDocumentoPrincipal preenchidos e em formato válido, em pessoa do polo ativo E PoloProcessual.polo, tipo igual AT: polo ativo preenchido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Documento do Polo passivo",
+    "descricao": "Mais de 95,00% dos processos Pessoa.numeroDocumentoPrincipal preenchidos e em formato válido, em pessoa do polo passivo PoloProcessual.polo, tipo igual PA: polo passivo preenchido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Processos Advogado polo passivo",
+    "descricao": "Mais de 90,00% dos processos advogado.tipoRepresentante, dos tipos tipoRepresentanteProcessual e modalidadeRepresentanteProcessual, preenchidos e enviados no polo passivo e no polo passivo, com uma das opções válidas (“A” para advogado, “E” para escritório de advocacia, “M” para ministério público, “D” para defensoria pública e “P” para outros órgãos",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Processo Advogado - representante",
+    "descricao": "Mais de 90,00% dos processos advogado.inscricao de número de inscrição da OAB, dos tipos tipoRepresentanteProcessual e tipoCadastroOAB, preenchidos para os tipoRepresentante=”A” (advogado)",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento de audiência com complemento",
+    "descricao": "mais de 95,00% dos movimentos de audiência (970 ou filhos) com complemento preenchido em formato válido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento de Remessa com complemento",
+    "descricao": "mais de 98,00% dos movimentos de remessa (123 ou 982) com complemento preenchido em formato válido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento de mudança de classe com complemento",
+    "descricao": "mais de 95,00% dos movimentos 14739 (Evolução da Classe Processual), 14738 (Retificação de Classe Processual), 10966 (Mudança de Classe Processual), com complemento preenchido em formato válido e com identificação das classes que estejam de acordo com as TPUs",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento de recurso a instância superior com complemento",
+    "descricao": "mais de 95,00% dos movimentos, lançados a partir de 2020, de suspensão por recurso extraordinário com repercussão geral (265) ou por recurso especial repetitivo (11975) ou por recurso de revista repetitivo (14973) ou por incidente de resolução de demandas repetitivas (12098) ou por incidente de assunção de competência – IAC (14968) ou por decisão do Presidente do STF – SIRDR (12100) ou por decisão do Presidente do STJ – SIRDR (12099) ou por Decisão do Presidente do TST – SIRDR (14972), com complemento preenchido em formato válido, e de acordo com os números dos temas existentes no BNP (ou BNPR)",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento de medida protetiva com complemento",
+    "descricao": "mais de 95,00% dos movimentos, lançados a partir de 2020, de medidas protetivas de urgência (11423, 11424, 11426, 12476, 12479, 14733, 14681) com complemento tabelado preenchido em formato válido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Ação Penal do Júri com assunto da hierarquia 3369",
+    "descricao": "mais de 95,00% dos processos que sejam ações penais de competência do júri (classe 282) que tenham assuntos da hierarquia 3369",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento de sessão júri com complemento",
+    "descricao": "mais de 95,00% dos processos que tenham movimentos de sessão do Tribunal do júri (movimento 313) com complemento preenchido e válido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Ação Penal do júri com polo passivo",
+    "descricao": "mais de 95,00% dos processos que sejam ações penais de competência do júri (classe 282) com informações do polo passivo",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento de Julgamento com CPF do Magistrado",
+    "descricao": "mais de 90,00% dos movimentos da hierarquia 193 (julgamento), com o campo movimento.tipoResponsavelMovimento igual a 1 (magistrado) E com número do CPF válido e preenchido no campo movimento.responsavelMovimento OU movimento.magistradoProlator, dos tipos tipoMovimentoProcessual e tipoCadastroIdentificador, e cujo CPF esteja cadastrado na tabela de magistrados(as) do MPM",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento x classe processual",
+    "descricao": "mais de 90,00% de movimentos preenchidos com a classe processual correspondente na data da movimentação, com o campo movimento.classeProcessual preenchido e em formato válido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento x órgão julgador",
+    "descricao": "mais de 90,00% de movimentos preenchidos com o órgão julgador correspondente na data da movimentação, com o campo movimento.orgaoJulgador.codigoOrgao preenchido e em formato válido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Movimento x órgão colegiado",
+    "descricao": "mais de 90,00% de movimentos preenchidos com o órgão julgador colegiado correspondente na data da movimentação, com o campo movimento.orgaoJulgadorColegiado.codigoOrgao em formato válido, observadas, inclusive, as classificações de órgãos colegiados existentes no MPM e a abrangência do tribunal",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "processos juizo 100% digital",
+    "descricao": "mais de 90,00% dos processos com o campo dadosBasicos.juizo100Digital preenchido",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 5
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "Processos com Custas recolhidas",
+    "descricao": "possuir processos com preenchimento do atributo: dadosBasicos.CustasRecolhidas",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DataJud",
+    "requisito": "processos com prioridade",
+    "descricao": "mais de 90,00% dos processos com o campo dadosBasicos.tipoPrioridade preenchido e em formato válido, quando dadosBasicos.pedidoPrioridade for assinalado como “True”. A ausência ou excesso de pedidos assinalados como “True” poderá acarretar perda da pontuação",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "MPM",
+    "requisito": "Cadastro de serventias",
+    "descricao": "Cadastro de serventias: até 2,00% das serventias ativas com registro de inconsistência ou com ausência de informação no sistema MPM",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Jeremias de Cassio Carneiro de Melo",
+    "deadline": "2026-08-20 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "MPM",
+    "requisito": "Cadastro de Magistrados",
+    "descricao": "Cadastro de magistrados(as): até 5,00% de magistrados(as) ativos com registro de inconsistência ou com ausência de informação no sistema MPM",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Jeremias de Cassio Carneiro de Melo",
+    "deadline": "2026-08-20 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "MPM",
+    "requisito": "Cadastro de Servidores",
+    "descricao": "Cadastro de servidores(as): até 5,00% de servidores(as) ativos com registros inconsistentes ou com ausência de informação no sistema MPM",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Jeremias de Cassio Carneiro de Melo",
+    "deadline": "2026-08-20 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Saneamento do Datajud",
+    "requisito": "Dados básicos",
+    "descricao": "Dados básicos",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-08-15 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Saneamento do Datajud",
+    "requisito": "Assuntos",
+    "descricao": "Assuntos",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-08-15 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Saneamento do Datajud",
+    "requisito": "Partes",
+    "descricao": "Partes",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Paula Frassinetti V. de Andrade",
+    "deadline": "2026-08-15 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Acervo Eletrònico",
+    "requisito": "Acervo Eletrònico",
+    "descricao": "Percentual de processos pendentes eletrônicos, calculado pela divisão do total de processos pendentes no DataJud",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 50
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "iGov-TIC-JUD",
+    "requisito": "iGov-TIC-JUD",
+    "descricao": "alcançar o seguinte desempenho no iGov-TIC-JUD:satisfatório, aprimorado, excelência",
+    "setorExecutor": "COORDENAÇÃO DE GOVERNANÇA",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-09-15 00:00:00",
+    "pontosAplicaveis2026": 30
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "iGov-TIC-JUD",
+    "requisito": "Força de Trabalho Ditec",
+    "descricao": "alcançar percentual igual ou superior a 60,00% do referencial mínimo para o seu quadro permanente de servidores",
+    "setorExecutor": "COORDENAÇÃO DE GOVERNANÇA",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 30
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "PDPJ",
+    "requisito": "SSO",
+    "descricao": "alcançar mensalmente a proporção média de 100 operações de autenticação no serviço de estruturante de single sign-on (SSO), para cada pessoa componente da força de trabalho do tribunal, considerados(as) os(as) magistrados(as) e os(as) servidores(as)",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 30
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "PDPJ",
+    "requisito": "Serviço de Peticionamento",
+    "descricao": "integração ativa ao serviço de peticionamento intercorrente disponibilizado no Portal de Serviços Unificados do Poder Judiciário",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Codex",
+    "requisito": "Proporção de casos novos",
+    "descricao": "Proporção de casos novos na plataforma Codex em relação ao DataJud.",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 25
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Codex",
+    "requisito": "Proporção de casos baixados",
+    "descricao": "Proporção de casos baixados na plataforma Codex em relação ao DataJud.",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 25
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Codex",
+    "requisito": "Correlação entre órgão judiciais singulares e locais",
+    "descricao": "existência de registros de correlação, em proporção igual ou superior a 95,00%, entre os órgãos judiciais singulares e colegiados locais de primeira e segunda instância e aqueles cadastrados na tabela nacional de órgãos do sistema SCA Corporativo do CNJ, e que estejam cadastrados como unidades judiciárias no sistema MPM (tabela de–para)",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Codex",
+    "requisito": "Processos eletrônicos com classe processual válida",
+    "descricao": "proporção mínima de 95,00% de processos eletrônicos carregados na plataforma Codex com classe processual válida e existente nas tabelas processuais unificadas",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Codex",
+    "requisito": "Processos eletrônicos com assuntos válidos",
+    "descricao": "proporção mínima de 95,00% de processos eletrônicos carregados na plataforma Codex com assuntos processuais válidos e existentes nas TPUs",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 10
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Codex",
+    "requisito": "Latência de Transmissão",
+    "descricao": "latência de transmissão de metadados processuais entre a persistência no sistema de processo judicial e a comunicação à plataforma Codex",
+    "setorExecutor": "GEINF",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 35
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "PID",
+    "requisito": "PID",
+    "descricao": "Nível 1 (5 pontos), com limite de até 2;\nNível 2 (10 pontos), com limite de até 3.",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 30
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "BNMP",
+    "requisito": "BNMP",
+    "descricao": "Diferença entre o número de pessoas privadas de liberdade apuradas a partir do BNMP e o número de pessoas privadas de liberdade, segundo dados das Seaps/Sejus e enviados aos GMFs.",
+    "setorExecutor": "GEFIJ",
+    "coordenadorExecutivo": "Fabio Leandro de Alencar Cunha",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 0
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "Domicílio Eletrônico",
+    "requisito": "Domicílio Eletrônico",
+    "descricao": "proporção entre número de citações eletrônicas informadas no sistema e casos novos no DataJud",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "4. DADOS E TECNOLOGIA",
+    "item": "DJEN",
+    "requisito": "DJEN",
+    "descricao": "proporção mensal entre número de intimações informadas no sistema e a quantidade de atos proferidos (decisões, despachos e sentenças) contabilizados pelo DataJud",
+    "setorExecutor": "GEPJE",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-07-31 00:00:00",
+    "pontosAplicaveis2026": 20
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Normativo do Planejamento Estratégico",
+    "descricao": "Planejamento Estratégico Institucional publicado evidenciando objetivos estratégicos, metas, indicadores de desempenho?",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Resultados do Planejamento Estratégico",
+    "descricao": "Os resultados do Planejamento Estratégico Institucional alcançados pelo órgão?",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Registro das competências e responsabilidades do órgão",
+    "descricao": "O registro das competências e responsabilidades do órgão?",
+    "setorExecutor": "DIJUR",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Estrutura Organizacional",
+    "descricao": "Estrutura organizacional, demonstrada de forma textual ou gráfica, que apresente claramente a relação hierárquica entre as unidades?",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Atos Normativos Expedidos",
+    "descricao": "Os atos normativos expedidos pelo órgão?",
+    "setorExecutor": "DIJUR",
+    "coordenadorExecutivo": "Pedro Davi Alves de Vasconcelos",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Acompanhamento dos Projetos",
+    "descricao": "Os dados gerais para o acompanhamento de programas, ações e projetos?",
+    "setorExecutor": "GEPLA",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Campo Estatística",
+    "descricao": "Há campo/espaço Estatística na página principal do órgão, com vistas a reunir dados abertos, Painéis de Business Intelligence e Relatórios Estatísticos referentes à atividade-fim do Poder Judiciário, contendo o conteúdo mínimo definido na Portaria CNJ n. 119/2021, com link de acesso ao Painel de Estatísticas do DataJud, e as informações relacionadas no art. 7º do referido normativo?",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Jeremias de Cassio Carneiro de Melo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO",
+    "requisito": "Acompanhamento dos Processos Administrativos",
+    "descricao": "O sítio eletrônico dispõe de mecanismo que possibilite o acompanhamento dos respectivos procedimentos e processos administrativos instaurados que não se enquadrem nas hipóteses de sigilo?",
+    "setorExecutor": "GESIS",
+    "coordenadorExecutivo": "Pedro Davi Alves de Vasconcelos",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDIÊNCIAS E SESSÕES",
+    "requisito": "Audiências e sessões - Calendário",
+    "descricao": "O calendário das sessões colegiadas?",
+    "setorExecutor": "GEJUD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDIÊNCIAS E SESSÕES",
+    "requisito": "Audiências e sessões - Pauta",
+    "descricao": "A pauta de julgamentos?",
+    "setorExecutor": "GEJUD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDIÊNCIAS E SESSÕES",
+    "requisito": "Audiências e sessões - transmissão ao vivo",
+    "descricao": "O sítio eletrônico transmite ao vivo, pela internet, as sessões dos órgãos colegiados?",
+    "setorExecutor": "GECOM",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDIÊNCIAS E SESSÕES",
+    "requisito": "Audiências e sessões - Vídeos das sessões",
+    "descricao": "O órgão publica os vídeos das sessões dos colegiados?",
+    "setorExecutor": "GECOM",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDIÊNCIAS E SESSÕES",
+    "requisito": "Atas Comissões e Comitês",
+    "descricao": "Resultados e atas das reuniões das comissões?",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDIÊNCIAS E SESSÕES",
+    "requisito": "Audiências Públicas",
+    "descricao": "As audiências públicas, consultas públicas ou outras formas de participação popular?",
+    "setorExecutor": "DIESP",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Telefondes e horários de atendimento",
+    "descricao": "Telefone das unidades e horários de atendimento?",
+    "setorExecutor": "GEAPO",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Campo",
+    "descricao": "O campo denominado ‘Serviço de Informações ao Cidadão’ na página inicial?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Carta de serviços ao cidadão",
+    "descricao": "O sítio eletrônico tem uma dimensão denominada \"Carta de Serviços ao Cidadão\"?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Responsável",
+    "descricao": "Há indicação do órgão ou unidade orgânica responsável pelo SIC?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Funcionamento",
+    "descricao": "Existe indicação precisa no site de funcionamento de um Serviço de Informações ao Cidadão (SIC) a que o cidadão possa entregar pessoalmente o pedido de acesso a informações?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Acompanhamento das manifestações",
+    "descricao": "O sítio eletrônico  indica a possibilidade de acompanhamento posterior do pedido de acesso à informação?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Interposição de recurso contra o indeferimento de pedido de acesso à informação",
+    "descricao": "O tribunal informa a possibilidade de interposição de recurso contra o indeferimento de pedido de acesso à informação ou às razões da negativa do acesso,com indicação de prazo, condições para interposição e autoridade competente para sua apreciação?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "FAQ",
+    "descricao": "As Respostas às perguntas mais frequentes da sociedade (FAQ)?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Relatório Estatístico",
+    "descricao": "Relatório estatístico anual contendo a quantidade de pedidos de informação recebidos, atendidos e indeferidos, bem como informações genéricas sobre os solicitantes?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC",
+    "requisito": "Link de acesso (PJE, Balcão Virtual, Primeiro Atendimento/Juizados Especiais)",
+    "descricao": "Link de acesso aos principais serviços de atendimento ao usuário? (PJE, Balcão Virtual, Primeiro Atendimento/Juizados Especiais)",
+    "setorExecutor": "GESIS",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "OUVIDORIA",
+    "requisito": "Registro de manifestação",
+    "descricao": "O sítio eletrônico disponibiliza página da Ouvidoria,que permita o registro de denúncias, reclamações e outrostipos de manifestação?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "OUVIDORIA",
+    "requisito": "Possibilidade de acompamento da manifestação",
+    "descricao": "O sítio eletrônico indica a possibilidade deacompanhamento de manifestações registradas naOuvidoria?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "OUVIDORIA",
+    "requisito": "Avaliação do Serviço",
+    "descricao": "O sítio eletrônico disponibiliza avaliação do serviçoprestado pela Ouvidoria?",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+    "requisito": "PDTIC",
+    "descricao": "O órgão publica o Plano Diretor de Tecnologia da Informação e Comunicação – PDTIC vigente?",
+    "setorExecutor": "COORDENAÇÃO DE GOVERNANÇA",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+    "requisito": "Plano de Contratações",
+    "descricao": "O órgão publica o Plano de Contratações de Soluções de TIC vigente?",
+    "setorExecutor": "COORDENAÇÃO DE GOVERNANÇA",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+    "requisito": "Painel Visual",
+    "descricao": "O órgão possui Painel visual de informações relacionadas à Tecnologia da Informação e Comunicação, que permita ao usuário filtrar, consultar e até extrair dados públicos?",
+    "setorExecutor": "COORDENAÇÃO DE GOVERNANÇA",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+    "requisito": "Extração de relatórios",
+    "descricao": "O sítio eletrônico institucional possibilita a extração de relatórios em diversos formatos eletrônicos, preferencialmente abertos, e não proprietários, tais como planilhas e texto (CSV, RTF), de modo a facilitar a análise das informações?",
+    "setorExecutor": "COORDENAÇÃO DE GOVERNANÇA",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+    "requisito": "Acesso automatizado",
+    "descricao": "O sítio eletrônico institucional possibilita o acesso automatizado por sistemas externos (ex: webservices ou api’s) em formatos abertos, estruturados e legíveis por máquina?",
+    "setorExecutor": "COORDENAÇÃO DE GOVERNANÇA",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Execução orçamentária - Anexo I",
+    "descricao": "Mensalmente, os dados de sua gestão orçamentária e financeira, na forma do Anexo I da Resolução CNJ nº 102/2009? (Não se aplica ao CSJT)",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Execução orçamentária - Anexo II",
+    "descricao": "Mensalmente, os dados de sua gestão orçamentária e financeira, na forma do Anexo II da Resolução CNJ nº 102/2009? (Não se aplica ao CSJT)",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Publicação do QDD",
+    "descricao": "A íntegra do quadro de detalhamento da despesa da Proposta Orçamentária com a distribuição dos recursos por grau de jurisdição? (Não se aplica a TREs, TSE, STJ, TST, CSJT, CNJ e CJF)",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Publicação da LOA",
+    "descricao": "A íntegra do quadro de detalhamento da despesa da Lei Orçamentária com a distribuição dos recursos por grau de jurisdição? (Não se aplica a TREs, TSE, STJ, TST, CSJT, CNJ e CJF)",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Mapa da Execução Orçamentária do ano anterior",
+    "descricao": "O Mapa Demonstrativo da Execução Orçamentária do ano anterior, com indicação das despesas realizadas por grau de jurisdição? (Não se aplica a TREs, TSE, CSJT, CJF, CNJ, STJ e TST)",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Relatório de Gestão Fiscal",
+    "descricao": "O ‘Relatório de Gestão Fiscal’? (Não se aplica ao CSJT)",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Mapa Anual de Precatórios",
+    "descricao": "O mapa anual dos precatórios? (Não se aplica a TREs, STM, TSE, CJF, CSJT, CNJ e TST)",
+    "setorExecutor": "GEPRE",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO ORÇAMENTÁRIA",
+    "requisito": "Relação das empresas contratadas",
+    "descricao": "A relação dos contratados, com os respectivos valores pagos nos últimos três anos, exceto os sigilosos, nos termos da legislação?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Estudos Técnicos Preliminares",
+    "descricao": "A íntegra dos ‘Estudos Técnicos Preliminares da Contratação’, desde que não tenham sido considerados sigilosos?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Mapa Comparativo de Preços",
+    "descricao": "A íntegra do Mapa Comparativo de Preços, documento que contém a informação conclusiva sobre o ‘Valor Estimado da Licitação’, desde que não tenha sido considerado sigiloso?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Editais de Licitação",
+    "descricao": "A íntegra dos editais de licitação com os respectivos anexos (o anexo do edital inclui projeto básico ou termo de referência, minuta da ata de registro de preços, quando for o caso, e minuta de contrato)?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Questionamento apresentados",
+    "descricao": "A íntegra dos questionamentos apresentados entre a publicação do Edital e a abertura da sessão pública?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Impugnações",
+    "descricao": "A íntegra das impugnações apresentadas entre a publicação do Edital e a abertura da sessão pública?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Vencedor da licitação",
+    "descricao": "O nome do vencedor da licitação?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Contratos firmados",
+    "descricao": "A íntegra dos contratos firmados?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Instrumentos que substituem o contrato",
+    "descricao": "A integra dos instrumentos que substituem o contrato?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Termos Aditivos",
+    "descricao": "A íntegra dos Termos Aditivos assinados?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Projeto básico ou Termo de Referência",
+    "descricao": "A íntegra do Projeto Básico, Termo de Referência e documento similar, desde que não tenha sido considerado sigiloso?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Dispensa ou Inexigibilidade de licitação",
+    "descricao": "A íntegra da autorização da dispensa ou inexigibilidade de licitação, desde que não tenha sido considerada sigilosa?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "LICITAÇÕES, CONTRATOS E INSTRUMENTOS DE COORPERAÇÃO",
+    "requisito": "Convênios",
+    "descricao": "O órgão publica no sítio eletrônico a íntegra dos instrumentos de cooperação (convênios, termos de cooperação, de compromisso, protocolo de intenções, acordos de cooperação técnica e outros instrumentos congêneres) vigentes, exceto os sigilosos, nos termos da legislação?",
+    "setorExecutor": "GECON",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Estrutura remuneratória dos cargos efetivos",
+    "descricao": "O Anexo III-a da Resolução CNJ nº 102/2009(estrutura remuneratória dos cargos efetivos)?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Estrutura remuneratória dos cargos comissionados",
+    "descricao": "O Anexo III-b da Resolução CNJ nº 102/2009(estrutura remuneratória dos cargos em comissão e dasfunções de confiança)?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Estrutura remuneratória dos magistrados",
+    "descricao": "O Anexo III-c da Resolução CNJ nº 102/2009(estrutura remuneratória de membros da magistratura)?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Publicação dos Cargos Efetivos",
+    "descricao": "Alínea “a” (cargos efetivos do quadro de pessoal doórgão)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Publicação dos Cargos em Comissão e Funções de Confiança",
+    "descricao": "Alínea “b” (cargos em comissão e funções deconfiança do quadro de pessoal do órgão)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Origem funcional dos cargos comissionados",
+    "descricao": "Alínea “c” (origem funcional dos(as) ocupantes decargos em comissão e funções de confiança)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Situação Funcional dos servidores ativos",
+    "descricao": "Alínea “d” (situação funcional dos(as) servidores(as)ativos(as) do quadro de pessoal do órgão)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Publicação dos cargos de magistrados",
+    "descricao": "Alínea “e” (cargos de magistrados(as) do quadro depessoal do órgão) (Não se aplica a TRE's e TSE)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Situação Funcional dos magistrados ativos",
+    "descricao": "Alínea “f” (situação funcional dos(as) magistrados(as)ativos(as) do quadro de pessoal do órgão) (Não se aplicaa TRE's e TSE)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Magistrados não integrantes do quadro próprio",
+    "descricao": "Alínea “g” (magistrados(as) não integrantes do quadropróprio em exercício no órgão)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Quantitativo de beneficiários e dependentes",
+    "descricao": "Alínea “h” (quantitativos de beneficiários(as) edependentes de benefícios assistenciais)",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Relação completa dos membros da magistratura",
+    "descricao": "O Anexo V da Resolução CNJ nº 102/2009 (divulgaçãoda relação completa de membros da magistratura e demaisagentes públicos, efetivos(as) ou não)?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Relação dos terceirizados",
+    "descricao": "O Anexo VI da Resolução CNJ nº 102/2009(relação completa dos(as) empregados(as) de empresascontratadas, em exercício nos órgãos)?",
+    "setorExecutor": "DIADM",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Relação dos requisitados",
+    "descricao": "O Anexo VII da Resolução CNJ nº 102/2009(divulgação da relação completa de servidores(as) e/ouempregados(as) não integrantes do quadro próprio, emexercício no órgão mediante requisição, cessão, exercíciotemporário ou qualquer outra forma, excluídos(as) os(as)ocupantes de cargos em comissão e funções deconfiança)?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Publicação da TLP",
+    "descricao": "A Tabela de Lotação de Pessoal (TLP) na qualconstem todas as unidades administrativas e judiciárias,com identificação nominal dos(as) servidores(as), cargosefetivos, cargos em comissão e funções ocupadas?",
+    "setorExecutor": "GEDAD",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Servidores cedidos para outros órgãos",
+    "descricao": "A relação de membros e servidores que se encontram afastados para o exercício de funções em outros órgãos da Administração Pública?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Remuneração dos Servidores",
+    "descricao": "A remuneração e os proventos de membros, servidores, ativo, aposentado, pensionista e colaboradores?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Publicação das Diárias e Passagens",
+    "descricao": "Mensalmente, as diárias e passagens concedidas, por nome e cargo do favorecido, além de data, destino, motivo da viagem e valor das diárias pagas e dos bilhetes emitidos?",
+    "setorExecutor": "DIESP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Servidores que estão em teletrabalho",
+    "descricao": "O tribunal divulga os nomes dos servidores que atuam no regime de teletrabalho, com atualização mínima semestral?",
+    "setorExecutor": "DIGEP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "GESTÃO DE PESSOAS",
+    "requisito": "Relação dos Peritos",
+    "descricao": "O tribunal divulga na internet a relação dos profissionais ou órgãos cadastrados no Cadastro Eletrônico de Peritos e Órgãos Técnicos ou Científicos? (Não se aplica ao STM, CNJ, CJF, CSJT, STJ, TSE, TST e TRE’s).",
+    "setorExecutor": "DIESP",
+    "coordenadorExecutivo": "Fabio Jose de Oliveira Araujo",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDITORIA E PRESTAÇÃO DE CONTAS",
+    "requisito": "Prestações de contas do ano anterior",
+    "descricao": "Prestações de contas do ano anterior?",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 2
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDITORIA E PRESTAÇÃO DE CONTAS",
+    "requisito": "Regularidade das contas proferida pelo Órgão de Controle Externo",
+    "descricao": "Publicação da decisão quanto à regularidade das contas proferida pelo Órgão de Controle Externo?",
+    "setorExecutor": "DIFIN",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDITORIA E PRESTAÇÃO DE CONTAS",
+    "requisito": "Certificado de auditoria",
+    "descricao": "Certificado de Auditoria contendo o Parecer do Órgão de Controle Interno (órgãos federais) e demais exigências da legislação de prestação de contas (órgãos estaduais)?",
+    "setorExecutor": "GEAUD",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDITORIA E PRESTAÇÃO DE CONTAS",
+    "requisito": "Plano Anual de Auditoria",
+    "descricao": "Plano Anual de Auditoria (PAA)?",
+    "setorExecutor": "GEAUD",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDITORIA E PRESTAÇÃO DE CONTAS",
+    "requisito": "Plano Anual de Capacitação de Auditoria",
+    "descricao": "Plano Anual de Capacitação de Auditoria (PAC-Aud)?",
+    "setorExecutor": "GEAUD",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "AUDITORIA E PRESTAÇÃO DE CONTAS",
+    "requisito": "Relatório Anual das Atividades Exercidas",
+    "descricao": "Relatório Anual das Atividades Exercidas (auditoria)?",
+    "setorExecutor": "GEAUD",
+    "coordenadorExecutivo": "Leonardo Sousa de Paiva Oliveira",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SUSTENTABILIDADE E ACESSIBILIDADE",
+    "requisito": "PLS",
+    "descricao": "O Plano de Logística Sustentável (PLS)?",
+    "setorExecutor": "NGSA",
+    "coordenadorExecutivo": "Lua Yamaoka Mariz Maia Pitanga",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SUSTENTABILIDADE E ACESSIBILIDADE",
+    "requisito": "Plano de ação do PLS",
+    "descricao": "O plano de ação do PLS?",
+    "setorExecutor": "NGSA",
+    "coordenadorExecutivo": "Lua Yamaoka Mariz Maia Pitanga",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SUSTENTABILIDADE E ACESSIBILIDADE",
+    "requisito": "Relatório de desempenho do PLS",
+    "descricao": "O relatório anual de desempenho do PLS?",
+    "setorExecutor": "NGSA",
+    "coordenadorExecutivo": "Lua Yamaoka Mariz Maia Pitanga",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SUSTENTABILIDADE E ACESSIBILIDADE",
+    "requisito": "Comissão Gestora do PLS",
+    "descricao": "A composição e o contato da Comissão Gestora do PLS?",
+    "setorExecutor": "NGSA",
+    "coordenadorExecutivo": "Lua Yamaoka Mariz Maia Pitanga",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 1
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SUSTENTABILIDADE E ACESSIBILIDADE",
+    "requisito": "Ínterprete de Libras",
+    "descricao": "O órgão utiliza intérprete de Língua Brasileira de Sinais(Libras) em manifestações públicas?",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Anna Carla Lopes Correia Lima de Freitas",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SUSTENTABILIDADE E ACESSIBILIDADE",
+    "requisito": "Planejamento das Ações de Acessibilidade",
+    "descricao": "O órgão disponibiliza o planejamento das ações de acessibilidade?",
+    "setorExecutor": "COAPO",
+    "coordenadorExecutivo": "Anna Carla Lopes Correia Lima de Freitas",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "SUSTENTABILIDADE E ACESSIBILIDADE",
+    "requisito": "Site em aderência ao e-mag",
+    "descricao": "O portal (sítio) institucional permite o acesso ao conteúdo para pessoas com deficiência, em atendimento ao estabelecido pela Resolução CNJ nº 215/2015 (Art. 6º, § 4º, VIII) e em aderência ao Modelo de Acessibilidade em Governº Eletrônico (eMAG)?",
+    "setorExecutor": "GESIS",
+    "coordenadorExecutivo": "Max Nunes de Franca",
+    "deadline": "2026-03-31 00:00:00",
+    "pontosAplicaveis2026": 3
+  },
+  {
+    "eixo": "3. TRANSPARÊNCIA",
+    "item": "OUVIDORIA",
+    "requisito": "Tempo médio do atendimento das demandas",
+    "descricao": "Responder, em até 30 (trinta) dias e com caráter resolutivo, às demandas encaminhadas ao tribunal pela ouvidoria do CNJ",
+    "setorExecutor": "OUVIDORIA",
+    "coordenadorExecutivo": "Maria Aparecida Sarmento Gadelha",
+    "deadline": "2026-06-30 00:00:00",
+    "pontosAplicaveis2026": 40
+  }
+]
